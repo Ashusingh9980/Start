@@ -1,0 +1,26 @@
+Github
+
+
+
+
+
+# Command Github
+git init (only one times)
+git remote add origin (run command only one time)
+git status
+git add (file name )
+git add .(all files)
+git commit -m "message write"
+git config --global user.email "sveeru344@gmail.com"
+git config --global user.name "Ashusingh9980"
+git push origin master
+
+# Not Command Run
+git clone _________
+git pull origin master
+
+#How to Create own Branch
+git checkout -b branch name
+
+#Go to Branch
+git checkout branch name

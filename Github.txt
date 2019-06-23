@@ -16,7 +16,7 @@ git config --global user.name "Ashusingh9980"
 git push origin master
 
 # Not Command Run
-git clone _________
+git clone ___Repo Name______
 git pull origin master
 
 #How to Create own Branch
